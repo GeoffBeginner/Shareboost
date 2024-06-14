@@ -1,0 +1,20 @@
+{
+  "name": "Share-G-Booster",
+  "version": "1.0.0",
+  "description": "This is a Fb-share-booster to boost your Facebook post using fbstate of your account but some reason your account will lock or suspended so it's so danger or it's illegal by accessing the Facebook community.",
+  "main": "index.js",
+  "scripts": {
+  "build": "[my-framework] build --output public"
+  }
+}
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
+  }
+}
