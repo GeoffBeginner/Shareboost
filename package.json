@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "This is a Fb-share-booster to boost your Facebook post using fbstate of your account but some reason your account will lock or suspended so it's so danger or it's illegal by accessing the Facebook community.",
   "main": "index.js",
-  "scripts": 
   "build": "[my-framework] build --output public"
-  }
 }
+{
   "keywords": [],
   "author": "",
   "license": "ISC",
