@@ -5,9 +5,10 @@
   "main": "index.js",
   "build": "[my-framework] build --output public"
 }
+
 {
-  "keywords": [],
-  "author": "",
+  "keywords": ["Facebook", "Sharing", "Booster"],
+  "author": "Geoff(j)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
